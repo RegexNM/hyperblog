@@ -10,6 +10,8 @@ Blog impresionante para [curso de Git y GitHub](http://platzi.com/cursos/git-git
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 
+[**Blogpost**](https://regexnm.github.io/hyperblog/blogpost/ "Blogpost")
+
 Y como un amable recordatorio **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas aca NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](http://platzi.com/cursos/git-github/ "a ver el curso")
 
-[**Blogpost**](https://regexnm.github.io/hyperblog/blogpost "Blogpost")
+
